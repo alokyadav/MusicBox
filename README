@@ -1,0 +1,30 @@
+Name: Tanmay Randhavane
+Roll Number: 110050010
+
+Name: Alok Yadav
+Roll Number: 110050043
+
+This archive contains:
+1) An src folder
+2) A Makefile
+3) This readme
+4) A texture folder containing texture files
+
+Link to report page: 
+http://www.cse.iitb.ac.in/~tanmayr/MusicBox/reportpart3.html
+
+Link to the video:
+http://www.youtube.com/watch?v=fKeXCpVLQA0
+
+Citations:
+1) Imageloader - http://www.opengl-tutorial.org/beginners-tutorials/tutorial-5-a-textured-cube/#Loading__BMP_images_yourself
+Used to load an image for texture
+2) http://www.cse.iitb.ac.in/~paragc/teaching/2013/cs475/code/lookat_record.cpp
+Used to store frames as images.
+
+All the work submitted for this assignment is done by us.
+
+To run -
+1) Go to the application directory.
+2) To compile type "make" in the terminal and press enter.
+3) Run the program by "./bin/MusicBox"
